@@ -372,5 +372,3 @@ Quick links:
 - [Pull Request Process](CONTRIBUTING.MD#pull-request-process)
 
 For bug reports and feature requests, please [open an issue](https://github.com/TurixAI/TuriX-CUA/issues).
-
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/turixai-turix-cua-badge.png)](https://mseep.ai/app/turixai-turix-cua)
